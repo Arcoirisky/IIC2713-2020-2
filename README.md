@@ -2,7 +2,7 @@
 Sistemas de info G18
 
 ## 2. Actividades 
-* limpieza de la bases :x:
+* limpieza de la bases :heavy_check_mark:
 ## 2.1. Análisis de datos e información para Chile
 * parte 1 :x:
 * parte 2 :x:
