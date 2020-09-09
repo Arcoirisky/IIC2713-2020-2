@@ -21,7 +21,7 @@ Sistemas de info G18
 * parte 7 :x:
 
 ## 3. Macros
-* parte 1 :x:
+* parte 1 :heavy_check_mark:
 * parte 2 :x:
 * parte 3 :x:
 * parte 4 :x:
