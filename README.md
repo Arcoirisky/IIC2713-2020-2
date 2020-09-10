@@ -24,7 +24,7 @@ INFORME EN PROCESO: https://es.overleaf.com/5228285155ydfctdrspjjy
 
 ## 3. Macros
 * parte 1 :heavy_check_mark:
-* parte 2 :x:
+* parte 2 :heavy_check_mark:
 * parte 3 :x:
 * parte 4 :x:
 * parte 5 :x:
