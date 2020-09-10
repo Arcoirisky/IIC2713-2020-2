@@ -4,7 +4,7 @@ Sistemas de info G18
 INFORME EN PROCESO: https://es.overleaf.com/5228285155ydfctdrspjjy
 
 ## 2. Actividades 
-* limpieza de la bases :heavy_check_mark:
+* limpieza de la bases :heavy_check_mark: :books:
 ## 2.1. Análisis de datos e información para Chile
 * parte 1 :heavy_check_mark:
 * parte 2 :heavy_check_mark:
