@@ -1,6 +1,8 @@
 # IIC2713-2020-2
 Sistemas de info G18
 
+INFORME EN PROCESO: https://es.overleaf.com/5228285155ydfctdrspjjy
+
 ## 2. Actividades 
 * limpieza de la bases :heavy_check_mark:
 ## 2.1. Análisis de datos e información para Chile
