@@ -29,6 +29,6 @@ INFORME EN PROCESO: https://es.overleaf.com/5228285155ydfctdrspjjy
 * parte 4 :x:
 * parte 5 :x:
 
-## 4. Seguridad de datos
-* parte 1 :x:
+## 4. Seguridad de datos (esto lo hago yo atte: richi)
+* parte 1 :x: 
 * parte 2 :x:
