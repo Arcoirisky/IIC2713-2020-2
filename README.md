@@ -26,7 +26,7 @@ INFORME EN PROCESO: https://es.overleaf.com/5228285155ydfctdrspjjy
 * parte 1 :heavy_check_mark:
 * parte 2 :heavy_check_mark:
 * parte 3 :heavy_check_mark:
-* parte 4 :x:
+* parte 4 :heavy_check_mark:
 * parte 5 :x:
 
 ## 4. Seguridad de datos (esto lo hago yo atte: richi)
