@@ -13,14 +13,14 @@ INFORME EN PROCESO: https://es.overleaf.com/5228285155ydfctdrspjjy
 * parte 5 :heavy_check_mark:
 * parte 6 :heavy_check_mark:
 
-## 2.2. Análisis de datos e información a nivel Mundial
+## 2.2. Análisis de datos e información a nivel Mundial :heavy_check_mark: :heavy_check_mark:
 * parte 1 :heavy_check_mark:
 * parte 2 :heavy_check_mark:
 * parte 3 :heavy_check_mark:
 * parte 4 :heavy_check_mark:
 * parte 5 :heavy_check_mark:
-* parte 6 :heavy_check_mark: (Falta las preguntas)
-* parte 7 :x:
+* parte 6 :heavy_check_mark:
+* parte 7 :heavy_check_mark:
 
 ## 3. Macros
 * parte 1 :heavy_check_mark:
