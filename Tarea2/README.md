@@ -3,6 +3,9 @@
 Sistemas de info G18
 
 INFORME EN PROCESO: 
+### Pasos para cargar la DB:
+* crear base de datos: ``` CREATE DATABASE db_name; ```
+* importar db del archivo Tarea2.pgsql ```  sudo -u USERNAME psql -d db_name -f Tarea2.pgsql```
 
 ## 2. Diagrama Relacional :heavy_check_mark:
 * relaciones/tabla :heavy_check_mark:
