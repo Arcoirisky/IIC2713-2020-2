@@ -4,18 +4,18 @@ Sistemas de info G18
 
 INFORME EN PROCESO: 
 
-## 2. Diagrama Relacional :x:
-* relaciones/tabla :x:
-* atributos junto con tipo de datos :x:
-* identificacion de llaves primarias :x:
-* cardinalidad en todas las relaciones :x:
+## 2. Diagrama Relacional :o:
+* relaciones/tabla :o:
+* atributos junto con tipo de datos :o:
+* identificacion de llaves primarias :o:
+* cardinalidad en todas las relaciones :o:
 
-## 3. Tablas relacionales :x:
-* nombre de la tabla :x:
-* Atributos de la tabla, seguido de su tipo de dato (string, int, float, date, etc) :x:
-* Identificación de la llave primaria (primary key) de la tabla, subrayando el atributo :x:
+## 3. Tablas relacionales :o:
+* nombre de la tabla :o:
+* Atributos de la tabla, seguido de su tipo de dato (string, int, float, date, etc) :o:
+* Identificación de la llave primaria (primary key) de la tabla, subrayando el atributo :o:
 
-## 4. Consultas SQL :x:
+## 4. Consultas SQL (Dunkan ahora) :x:
 * consulta 1 :x:
 * consulta 2 :x:
 * consulta 3 :x:
